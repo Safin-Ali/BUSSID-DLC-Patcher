@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.AppTheme" parent="android:Theme.NoTitleBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">#2e65fe</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme" parent="Base.AppTheme" />
+</resources>
